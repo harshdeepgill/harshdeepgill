@@ -6,6 +6,9 @@
 - 📫 How to reach me **er.harshdeepgill@gmail.com**
 
 - <a href="http://harshdeepgill.github.io" >My Portfolio</a>
+MoneyMingle <a href="http://harshdeepgill.github.io](https://github.com/harshdeepgill/money_mingle" >Repo</a>
+OnFlick <a href="https://github.com/harshdeepgill/decisive-duck-1364" >Repo</a>
+WandaWe <a href="https://github.com/harshdeepgill/late-trousers-7947" >Repo</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
