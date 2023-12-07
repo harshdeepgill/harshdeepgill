@@ -7,16 +7,11 @@
 
 - <a href="http://harshdeepgill.github.io" >My Portfolio</a>
 
-- MoneyMingle: Money Mingle is a Fin-Tech website which allows user to make transactions in vairous currencies, along with money conversion functionalities. Also we provide a dashboard to manage expenses.
-- <a href="http://harshdeepgill.github.io](https://github.com/harshdeepgill/money_mingle" >Repo</a>
-- OnFlick: Onflick is a ecommerce website which allows user to create account, whish list, add to cart and experiance smooth intrface.
-- <a href="https://github.com/harshdeepgill/decisive-duck-1364" >Repo</a>
-- WandaWe: Wanda We is a travel booking website which offers vairous packages and alow user to filter and sort products.
-- <a href="https://github.com/harshdeepgill/late-trousers-7947" >Repo</a>
-- AI Interviwer: AI Interviwer is a web app that allows user to prepare for an interview with the help of Oper.ai API. Also the dashboard aloows the user to track their progress in diffrent interviews.
-- <a href="[https://github.com/harshdeepgill/late-trousers-7947](https://github.com/RaviTheja1996/AI_Interviewer)" >Repo</a>
-- Art Sphere: Art sphere is a social media platform where the user can register and share their artworks. User is allowed to edit pictures with, favourite posts and get appreciation from others in form of commnets.
-- <a href="[https://github.com/harshdeepgill/late-trousers-7947](https://github.com/harshdeepgill/festive-crayon-1023)" >Repo</a>
+- <a href="http://harshdeepgill.github.io](https://github.com/harshdeepgill/money_mingle" >MoneyMingle</a>: Money Mingle is a Fin-Tech website which allows user to make transactions in vairous currencies, along with money conversion functionalities. Also we provide a dashboard to manage expenses.
+- <a href="https://github.com/harshdeepgill/decisive-duck-1364" >OnFlick</a>: Onflick is a ecommerce website which allows user to create account, whish list, add to cart and experiance smooth intrface.
+- <a href="https://github.com/harshdeepgill/late-trousers-7947" >WandaWe</a>: Wanda We is a travel booking website which offers vairous packages and alow user to filter and sort products.
+- <a href="[https://github.com/harshdeepgill/late-trousers-7947](https://github.com/RaviTheja1996/AI_Interviewer)" >AI Interviwer</a>: AI Interviwer is a web app that allows user to prepare for an interview with the help of Oper.ai API. Also the dashboard aloows the user to track their progress in diffrent interviews.
+- <a href="[https://github.com/harshdeepgill/late-trousers-7947](https://github.com/harshdeepgill/festive-crayon-1023)" >Art Sphere</a>: Art sphere is a social media platform where the user can register and share their artworks. User is allowed to edit pictures with, favourite posts and get appreciation from others in form of commnets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
