@@ -12,7 +12,7 @@ WandaWe <a href="https://github.com/harshdeepgill/late-trousers-7947" >Repo</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshdeepgill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshdeepgill/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshdeepgill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshdeepgill/" height="30" width="40" /></a>
 <a href="https://instagram.com/gill_harshdeepgill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gill_harshdeepgill" height="30" width="40" /></a>
 </p>
 
